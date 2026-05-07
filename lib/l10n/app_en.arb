@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "loginWelcomeBack": "Welcome Back",
+    "loginSubtitle": "Enter your username and password to access your account",
+    "loginUsernameLabel": "Username",
+    "loginUsernameHint": "Enter your username",
+    "loginPasswordLabel": "Password",
+    "loginPasswordHint": "Enter your password",
+    "loginRememberMe": "Remember me",
+    "loginForgotPassword": "Forgot Password",
+    "loginSignInButton": "Sign In",
+    "loginEmptyFieldsError": "Enter your username and password",
+    "authErrorBadRequest": "Incorrect username or password.",
+    "authErrorUnauthorized": "Incorrect username or password.",
+    "authErrorNotFound": "User not found.",
+    "authErrorServerError": "Server error. Please try again later.",
+    "authErrorNoInternet": "No internet connection. Check your network.",
+    "authErrorUnknown": "An unexpected error occurred. Please try again."
+}

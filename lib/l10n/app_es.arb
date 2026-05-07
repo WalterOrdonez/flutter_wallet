@@ -1,0 +1,19 @@
+{
+    "@@locale": "es",
+    "loginWelcomeBack": "Bienvenido de nuevo",
+    "loginSubtitle": "Ingresa tu usuario y contraseña para acceder a tu cuenta",
+    "loginUsernameLabel": "Usuario",
+    "loginUsernameHint": "Ingresa tu usuario",
+    "loginPasswordLabel": "Contraseña",
+    "loginPasswordHint": "Ingresa tu contraseña",
+    "loginRememberMe": "Recordarme",
+    "loginForgotPassword": "¿Olvidaste tu contraseña?",
+    "loginSignInButton": "Iniciar sesión",
+    "loginEmptyFieldsError": "Ingresa tu usuario y contraseña",
+    "authErrorBadRequest": "Usuario o contraseña incorrectos.",
+    "authErrorUnauthorized": "Usuario o contraseña incorrectos.",
+    "authErrorNotFound": "Usuario no encontrado.",
+    "authErrorServerError": "Error en el servidor. Intenta más tarde.",
+    "authErrorNoInternet": "Sin conexión a internet. Verifica tu red.",
+    "authErrorUnknown": "Ocurrió un error inesperado. Intenta de nuevo."
+}
